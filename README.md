@@ -20,6 +20,18 @@ Run streamlit run dashboard.py
 - Add page titles and a header without inserting any HTML
 
 ![crimewave_code](https://user-images.githubusercontent.com/20058009/174624366-f796e886-bf4a-4cbb-ab4c-5d80118e935a.png)
+![sidebar](https://user-images.githubusercontent.com/20058009/174631863-d8878ff0-be8e-48d1-a8c5-2b8c5056a39b.JPG)
+
+- The Dashboard displays Homicides, Assault w/Deadly Weapon and Robbery crimes
+- Users can view the violent crimes happening near them
+- Users can view the increase or decrease in violent crime trends
 
 
-![wrad2_crime](https://user-images.githubusercontent.com/20058009/174487526-baed2437-b785-4ad2-9cee-7ff835f54fde.JPG)
+![crime _stats](https://user-images.githubusercontent.com/20058009/174632652-57f9299e-2771-41f6-a63e-ca4d995e1686.JPG)
+
+
+- Change neighborhoods using the selector 
+- Users can zoom in on the map to see exactly where crimes are occuring
+- Users can scroll through the raw data in the crime table to see all crimes
+
+![crime_map](https://user-images.githubusercontent.com/20058009/174633508-d60fbcbb-8ce3-4940-9cf6-922d22bc06da.JPG)
