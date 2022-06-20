@@ -1,8 +1,8 @@
 ![Crime_Wave_Banner](https://user-images.githubusercontent.com/20058009/174626710-23055f36-ece9-4686-a808-8de222bb98d0.png)
 
 ![https://img.shields.io/badge/python-streamlit-blue](https://img.shields.io/badge/python-streamlit-blue)
-![https://img.shields.io/github/issues/Sandcobra/Crime-Wave-Dashboard]
-![https://img.shields.io/github/license/Sandcobra/Crime-Wave-Dashboard]
+[![GitHub license](https://img.shields.io/github/license/Sandcobra/Crime-Wave-Dashboard)](https://github.com/Sandcobra/Crime-Wave-Dashboard/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/Sandcobra/Crime-Wave-Dashboard)](https://github.com/Sandcobra/Crime-Wave-Dashboard/issues)
 
 Display crime data for various cities
 
