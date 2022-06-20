@@ -1,4 +1,5 @@
-# Crime-Wave-Dashboard
+![Crime_Wave_Banner](https://user-images.githubusercontent.com/20058009/174626710-23055f36-ece9-4686-a808-8de222bb98d0.png)
+
 Display crime data for various cities
 
 This app uses python streamlit library to display crime data for cities like Washington DC. The crime data are broken down into neighborhoods to help users better understand how dangerous a area is with points on a map that visualize the crime data.
