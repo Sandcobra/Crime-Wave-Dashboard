@@ -5,9 +5,9 @@ This app uses python streamlit library to display crime data for cities like Was
 
 ## Run Locally
 ```bash
-Run command git clone https://github.com/Sandcobra/Crime-Wave-Dashboard.git
-Run command pip install -r requirements.txt
-Run command streamlit run dashboard.py
+- Run git clone https://github.com/Sandcobra/Crime-Wave-Dashboard.git
+- Run pip install -r requirements.txt
+- Run streamlit run dashboard.py
 ```
 
 ![wrad2_crime](https://user-images.githubusercontent.com/20058009/174487526-baed2437-b785-4ad2-9cee-7ff835f54fde.JPG)
