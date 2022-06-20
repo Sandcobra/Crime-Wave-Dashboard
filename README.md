@@ -22,6 +22,7 @@ Run streamlit run dashboard.py
 ![crimewave_code](https://user-images.githubusercontent.com/20058009/174624366-f796e886-bf4a-4cbb-ab4c-5d80118e935a.png)
 ![sidebar](https://user-images.githubusercontent.com/20058009/174631863-d8878ff0-be8e-48d1-a8c5-2b8c5056a39b.JPG)
 
+## Visualize the Data
 - The Dashboard displays Homicides, Assault w/Deadly Weapon and Robbery crimes
 - Users can view the violent crimes happening near them
 - Users can view the increase or decrease in violent crime trends
