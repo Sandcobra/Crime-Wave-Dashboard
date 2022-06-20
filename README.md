@@ -11,6 +11,9 @@ Run streamlit run dashboard.py
 ```
 
 - Streamlit has a simple setup to get a dashboard up and running quickly
+- Create a sidebar with select boxes for easy clean navigation
+- Add page titles and a header without inserting any HTML
+
 ![crimewave_code](https://user-images.githubusercontent.com/20058009/174624366-f796e886-bf4a-4cbb-ab4c-5d80118e935a.png)
 
 
